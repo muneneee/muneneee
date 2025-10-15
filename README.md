@@ -1,10 +1,10 @@
 
-<h1 align="center">The name's Munene... Kevin Munene</h1>
+<h1 align="center">Kevin Munene</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on **open-source software development**
+- 🔭 I’m currently working on **NextJS**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **ML Development**
 
 - 💬 Let's connect [LinkedIn](https://www.linkedin.com/in/kevin-munene-0870201b2/)
 
