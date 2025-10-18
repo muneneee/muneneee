@@ -8,7 +8,7 @@
 
 - 💬 Let's connect [LinkedIn](https://www.linkedin.com/in/kevin-munene-0870201b2/)
 
-- 💬 Ask me about **django, javascript and python**
+- 💬 Ask me about **React, javascript and python**
 
 - 📫 How to reach me **lukekevin39@gmail.com**
 
